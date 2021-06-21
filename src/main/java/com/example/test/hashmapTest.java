@@ -1,4 +1,5 @@
-package com.example.jinseong;
+package com.example.test;
+
 
 import java.util.HashMap;
 import java.util.Set;

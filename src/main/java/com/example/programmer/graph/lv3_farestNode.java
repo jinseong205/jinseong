@@ -2,6 +2,7 @@ package com.example.programmer.graph;
 
 import java.util.*;
 
+//fail
 public class lv3_farestNode {
 
 	public static void main(String[] args) {
