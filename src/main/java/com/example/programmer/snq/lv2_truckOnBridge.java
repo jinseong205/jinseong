@@ -6,7 +6,6 @@ public class lv2_truckOnBridge {
 
 	public static void main(String[] args) {
 
-		
 
 		lv2_truckOnBridge sol = new lv2_truckOnBridge();
 		
