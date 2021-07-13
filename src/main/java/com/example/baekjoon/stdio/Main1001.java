@@ -1,4 +1,7 @@
-package com.example.baekjoon;
+/**
+ * 표준 입출력과 사칙 연산 - 1001 - a-b
+ */
+package com.example.baekjoon.stdio;
 
 import java.io.*;
 

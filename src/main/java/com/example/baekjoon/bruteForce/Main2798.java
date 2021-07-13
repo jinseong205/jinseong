@@ -1,3 +1,7 @@
+/**
+ *  브루트포스 - 2798- 블랙잭
+ */
+
 package com.example.baekjoon.bruteForce;
 
 
