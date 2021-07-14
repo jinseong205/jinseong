@@ -1,5 +1,5 @@
 /**
- * 수학1 - 1712 - 손익분기점
+ * 기본수학1 - 1712 - 손익분기점
  */
 package com.example.baekjoon.math;
 
