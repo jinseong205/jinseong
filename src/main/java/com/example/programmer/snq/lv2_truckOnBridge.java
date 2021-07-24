@@ -1,7 +1,5 @@
 package com.example.programmer.snq;
 
-import com.example.programmer.graph.lv3_farestNode;
-
 public class lv2_truckOnBridge {
 
 	public static void main(String[] args) {

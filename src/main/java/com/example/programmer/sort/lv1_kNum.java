@@ -2,8 +2,6 @@ package com.example.programmer.sort;
 
 import java.util.*;
 
-import com.example.programmer.greedy.lv2_lifeBoat;
-
 public class lv1_kNum {
 
 	public static void main(String[] args) {
